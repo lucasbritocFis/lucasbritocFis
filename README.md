@@ -10,6 +10,8 @@ I work at the intersection of clinical radiotherapy and software engineering —
 
 🔹 **[patient-plan-explainer](https://github.com/lucasbritocFis/patient-plan-explainer)** — Turns DICOM RT treatment plans into patient-friendly explanations. PDF + audio, Brazilian Portuguese.
 
+🔹 **[eclipse-dicom-fix](https://github.com/lucasbritocFis/eclipse-dicom-fix)** — Re-encodes compressed DICOM files (JPEG Lossless, JPEG 2000) to Implicit VR Little Endian for clean Eclipse TPS import.
+
 🔹 **[dicom-rt-explained](https://github.com/lucasbritocFis/dicom-rt-explained)** — A practical, code-first guide to DICOM-RT for developers entering radiation oncology. Bilingual (EN / PT-BR).
 
 🔹 **Radioterapia.AI** (private) — AI-powered clinical platform for radiation oncology workflows. Co-founded with [Dr. Henrique Braga](#).
